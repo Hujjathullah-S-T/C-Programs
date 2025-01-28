@@ -6,5 +6,5 @@ scanf("%d",&a);
 printf("Enter Second Number : ");
 scanf("%d",&b);
 c=a-b;
-printf("The Sum is %d",c);
+printf("The Difference is %d",c);
 }
